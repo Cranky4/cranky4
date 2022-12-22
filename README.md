@@ -18,5 +18,5 @@ VueJs, mysql, postgres
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cranky4&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-### Leetcode practice
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=cranky4&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+### Leetcode profile
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=cranky4&theme=dark)](https://leetcode.com/cranky4/)
