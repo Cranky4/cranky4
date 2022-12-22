@@ -16,7 +16,7 @@ VueJs, mysql, postgres
 ### Repos Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranky4&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cranky4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cranky4&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Leetcode practice
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=cranky4&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
