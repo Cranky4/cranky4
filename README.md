@@ -14,7 +14,7 @@ VueJs, mysql, postgres
 
 #### Contacts:
 <a href = "https://www.linkedin.com/in/alexander-shander-9a6782106/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href = "https://t.me/cranky4"><img src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href = "https://t.me/cranky4"><img src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:sylvl0n@yandex.ru"><img src="https://img.shields.io/badge/mail-c71610?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ### Repos Stats
