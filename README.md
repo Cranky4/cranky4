@@ -3,7 +3,9 @@
 #### About Me
 - Web-developer since 2012.
 php 8.0+, Laravel, Symfony 5+
+
 VueJs, mysql, postgres
+
 Go
 
 #### Contacts:
