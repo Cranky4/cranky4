@@ -2,11 +2,9 @@
 
 #### About Me
 - Web-developer since 2012.
-php 8.0+, Laravel, Symfony 5+
-
-VueJs, mysql, postgres
-
-Go
+- php 8.0+, Laravel, Symfony 5+
+- VueJs, mysql, postgres
+- Go
 
 #### Contacts:
 <a href = "https://www.linkedin.com/in/alexander-shander-9a6782106/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
