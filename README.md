@@ -2,7 +2,9 @@
 
 #### About Me
 Middle Backend Developer since 2022
-- Golang, Postgres, Clickhouse, Kafka and other microservice things =)
+- Golang, Postgres, Clickhouse, Kafka
+- K8s, docker, CI/CD
+- and other microservice things =)
 
 Before
 - php 8.0+, Laravel, Symfony 5+
