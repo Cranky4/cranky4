@@ -6,7 +6,7 @@ Middle Backend Developer since 2022
 - K8s, docker, CI/CD
 - and other microservice things =)
 
-Before
+Before: PHP/Web Developer since 2012
 - php 8.0+, Laravel, Symfony 5+
 - VueJs, mysql, postgres
 
